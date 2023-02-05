@@ -1,6 +1,9 @@
 # rikaab6
+khadro daahir omar
+c119702
 
-A new Flutter project.
+A new Flutter project. 
+
 
 ## Getting Started
 
